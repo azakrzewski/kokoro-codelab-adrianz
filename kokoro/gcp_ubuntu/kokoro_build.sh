@@ -19,6 +19,7 @@ cd ${KOKORO_ARTIFACTS_DIR}/github/kokoro-codelab-adrianz
 
 echo build
 echo PWD=${PWD}
+find .
 
 
 # full job name: codelab/adrianz/gcp_ubuntu/{presubmit|continuous}
