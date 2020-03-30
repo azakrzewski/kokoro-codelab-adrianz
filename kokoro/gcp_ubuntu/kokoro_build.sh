@@ -21,5 +21,6 @@ echo build
 echo PWD=${PWD}
 find .
 
+./build.sh
 
 # full job name: codelab/adrianz/gcp_ubuntu/{presubmit|continuous}
