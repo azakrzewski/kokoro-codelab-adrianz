@@ -16,4 +16,6 @@ set -e
 # The final directory name in this path is determined by the scm name specified
 # in the job configuration.
 cd ${KOKORO_ARTIFACTS_DIR}/github/kokoro-codelab-adrianz
-./build.sh
+
+
+echo Success 2 BUILD_REF=${BUILD_REF}
