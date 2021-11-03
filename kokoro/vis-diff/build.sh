@@ -18,4 +18,4 @@ set -e
 cd ${KOKORO_ARTIFACTS_DIR}/github/kokoro-codelab-adrianz
 
 
-echo Success
+echo Success 2
